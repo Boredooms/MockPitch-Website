@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚀_Status-Live-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/🏆_Hackathon-IdeaPitch-blue" alt="Hackathon">
+  <img src="https://img.shields.io/badge/🏆_Hackathon-Driveblaze-orange" alt="Hackathon">
   <img src="https://img.shields.io/badge/⭐_Version-1.0.0-gold" alt="Version">
 </div>
 
