@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <h3>🔥 A Platform to Showcase and Pitch Ideas 🔥</h3>
-  <p><em>Helping innovators present, share, and refine their ideas with a clean, modern UI</em></p>
-  <p><strong>Present pitches • Get feedback • Grow your ideas</strong></p>
+  <h3>🔥 The Ultimate Platform for Mock Interviews & Idea Pitching 🔥</h3>
+  <p><em>Practice interviews • Get feedback • Showcase ideas • Sharpen your skills</em></p>
+  <p><strong>Collaborate • Present • Build Confidence • Grow</strong></p>
 </div>
 
 <div align="center">
@@ -17,15 +17,6 @@
   <img src="https://img.shields.io/badge/🖼️_Design-Clean_UI-orange" alt="Design">
   <img src="https://img.shields.io/badge/📱_Responsive-Mobile_Friendly-red" alt="Responsive">
   <img src="https://img.shields.io/badge/🌍_Reach-Global-green" alt="Global">
-</div>
-
-<div align="center">
-  
-[![Built with HTML](https://img.shields.io/badge/Built%20with-HTML5-E34F26.svg?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS3-1572B6.svg?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Powered by JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 ---
@@ -36,19 +27,19 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/💡-Pitch_Ideas-gold?style=for-the-badge" alt="Pitch">
-        <br><strong>Showcase Ideas</strong>
-        <br><em>Present your projects easily</em>
+        <img src="https://img.shields.io/badge/🎤-Pitch_Your_Idea-gold?style=for-the-badge" alt="Pitch">
+        <br><strong>Showcase Skills & Ideas</strong>
+        <br><em>Present interviews or projects with confidence</em>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎨-Clean_Design-blue?style=for-the-badge" alt="Design">
-        <br><strong>Modern UI</strong>
-        <br><em>Simple and professional layouts</em>
+        <img src="https://img.shields.io/badge/💬-Get_Feedback-blue?style=for-the-badge" alt="Feedback">
+        <br><strong>AI + Peer Reviews</strong>
+        <br><em>Receive instant and valuable feedback</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/📱-Responsive-green?style=for-the-badge" alt="Responsive">
         <br><strong>Mobile Friendly</strong>
-        <br><em>Works on all devices</em>
+        <br><em>Works across devices</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/⚡-Fast_Loading-orange?style=for-the-badge" alt="Fast">
@@ -63,11 +54,14 @@
 
 ## 🚀 Features
 
-- 📄 **Idea Showcase**: Present pitches with details  
-- 🎨 **Clean UI**: Minimal and professional styling  
-- 📱 **Responsive Design**: Seamless on desktop, tablet, and mobile  
+- 🎤 **Mock Interview Hub**: Practice interviews & showcase achievements  
+- 📄 **Idea Showcase**: Share projects with details  
+- 💬 **Feedback System**: AI + peers provide insights  
+- 🌍 **Collaboration Ready**: Connect with innovators worldwide  
+- 📊 **Analytics Dashboard**: Track progress & engagement  
+- 🎨 **Clean UI**: Simple and professional layouts  
+- 📱 **Responsive Design**: Works on desktop, tablet, and mobile  
 - ⚡ **Fast Performance**: Lightweight HTML, CSS, and JS  
-- 🖼️ **Customizable**: Easy to adapt for different projects  
 
 ---
 
