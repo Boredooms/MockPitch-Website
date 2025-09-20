@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <h3>🔥 The Ultimate Platform for Mock Pitching 🔥</h3>
-  <p><em>Practice your pitch • Get feedback • Sharpen your ideas</em></p>
+  <h3>🔥 The Ultimate Platform for Mock Interviewing 🔥</h3>
+  <p><em>Practice your interview • Get feedback • Sharpen your skilss</em></p>
   <p><strong>Collaborate • Showcase • Build Confidence</strong></p>
 </div>
 
@@ -30,18 +30,18 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/🎤-Pitch_Your_Idea-gold?style=for-the-badge" alt="Pitch">
-        <br><strong>Showcase Projects</strong>
+        <br><strong>Showcase your skills</strong>
         <br><em>Present ideas in a structured way</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💬-Get_Feedback-blue?style=for-the-badge" alt="Feedback">
-        <br><strong>Peer Reviews</strong>
+        <br><strong>AI Reviews</strong>
         <br><em>Collect valuable feedback instantly</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/🌍-Collaborate-green?style=for-the-badge" alt="Collaborate">
-        <br><strong>Work Together</strong>
-        <br><em>Connect with innovators</em>
+        <br><strong>Work Better</strong>
+        <br><em>Get proper Mentoring and Support</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/⚡-Learn_Faster-red?style=for-the-badge" alt="Learn">
@@ -56,8 +56,8 @@
 
 ## 🚀 Features
 
-- 🎤 **Pitch Hub**: Share your startup ideas or projects  
-- 💬 **Feedback System**: Engage with peers and mentors for reviews  
+- 🎤 **Pitch Hub**: Share your interview answers or  your acheivements.   
+- 💬 **Feedback System**: Engage with artificial intelligence for reviews  
 - 🌍 **Collaboration Ready**: Team up with innovators worldwide  
 - 📊 **Analytics Dashboard**: Track engagement & progress  
 - 📱 **Responsive UI**: Works on desktop, tablet, and mobile  
