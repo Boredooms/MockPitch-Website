@@ -1,81 +1,98 @@
-# MockPitch Website
+# 🎤 MockPitch - Pitch Smarter, Grow Faster
 
-A clean, responsive frontend website for MockPitch — the place to showcase, pitch, and give feedback on creative ideas. Designed with modern web standards, this site aims to provide an intuitive experience across devices.
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Status-Live-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/🏆_Hackathon-Project-blue" alt="Hackathon">
+  <img src="https://img.shields.io/badge/⭐_Version-1.0.0-gold" alt="Version">
+</div>
 
----
+<div align="center">
+  <h3>🔥 The Ultimate Platform for Mock Pitching 🔥</h3>
+  <p><em>Practice your pitch • Get feedback • Sharpen your ideas</em></p>
+  <p><strong>Collaborate • Showcase • Build Confidence</strong></p>
+</div>
 
-## Table of Contents
+<div align="center">
+  
+[![Built with React](https://img.shields.io/badge/Built%20with-React%2019-61DAFB.svg?style=for-the-badge&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-1. [Demo & Screenshots](#demo--screenshots)  
-2. [Features](#features)  
-3. [Tech Stack](#tech-stack)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Running Locally](#running-locally)  
-   - [Building for Production](#building-for-production)  
-5. [Folder Structure](#folder-structure)  
-6. [Contributing](#contributing)  
-7. [Future Improvements](#future-improvements)  
-8. [License](#license)  
-9. [Contact](#contact)
-
----
-
-## Demo & Screenshots
-
-*(Optional: Include a live link to a deployed version & images/gifs of important screens like homepage, pitch submission, responsive layout on mobile etc.)*
-
-- [Live Demo](#)  
-- Screenshots:  
-  ![Homepage](path/to/homepage-screenshot.png)  
-  ![Mobile View](path/to/mobile-screenshot.png)
+</div>
 
 ---
 
-## Features
+## ✨ Key Highlights
 
-- Responsive design for desktop, tablet, and mobile  
-- Navigation menu with intuitive links and sections  
-- Pitch display / gallery view  
-- (Optional) Feedback/comments section  
-- (Optional) User authentication (sign-in/signup)  
-- Clean UI/UX with modern design patterns
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎤-Pitch_Your_Idea-gold?style=for-the-badge" alt="Pitch">
+        <br><strong>Showcase Projects</strong>
+        <br><em>Present ideas in a structured way</em>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💬-Get_Feedback-blue?style=for-the-badge" alt="Feedback">
+        <br><strong>Peer Reviews</strong>
+        <br><em>Collect valuable feedback instantly</em>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍-Collaborate-green?style=for-the-badge" alt="Collaborate">
+        <br><strong>Work Together</strong>
+        <br><em>Connect with innovators</em>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡-Learn_Faster-red?style=for-the-badge" alt="Learn">
+        <br><strong>Improve Skills</strong>
+        <br><em>Sharpen pitching ability</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Tech Stack
+## 🚀 Features
 
-| Layer | Technology |
-|-------|------------|
-| HTML / CSS | Semantic HTML5, Flexbox / Grid, Media Queries |
-| CSS Framework / Styling | (if any – e.g. Bootstrap, Tailwind, Styled Components) |
-| JavaScript / Frontend Logic | Vanilla JS, or React / Vue / etc. (specify) |
-| Build Tools | (if any – e.g. Webpack, Vite, Parcel) |
-| Version Control | Git & GitHub |
+- 🎤 **Pitch Hub**: Share your startup ideas or projects  
+- 💬 **Feedback System**: Engage with peers and mentors for reviews  
+- 🌍 **Collaboration Ready**: Team up with innovators worldwide  
+- 📊 **Analytics Dashboard**: Track engagement & progress  
+- 📱 **Responsive UI**: Works on desktop, tablet, and mobile  
 
 ---
 
-## Getting Started
+## 🛠 Technology Stack
 
-### Prerequisites
+### *Frontend*
+- ⚛️ React 19  
+- 💙 TypeScript  
+- 🎨 Tailwind CSS  
+- ✨ Framer Motion (animations)  
 
-Before you begin, ensure you have:
+### *Backend (Optional / Future Scope)*
+- 🗄️ Node.js + Express (API integration)  
+- 📦 MongoDB / Supabase (for pitches & feedback)  
 
-- Node.js (v14 or higher) & npm (or yarn) installed  
-- A code editor (e.g. VS Code)  
-- Internet connection
+### *Other Tools*
+- Git & GitHub for version control  
+- Vite for fast builds  
 
-### Installation
+---
 
+## 📋 Prerequisites
+
+- Node.js 18+ and npm (or yarn)  
+- Git installed  
+- Code editor (VS Code recommended)  
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone the Repository
 ```bash
-# Clone the repo
 git clone https://github.com/Boredooms/MockPitch-Website.git
-
-# Move into the project directory
 cd MockPitch-Website
-
-# Install dependencies
-npm install
-# Or if using yarn:
-# yarn
